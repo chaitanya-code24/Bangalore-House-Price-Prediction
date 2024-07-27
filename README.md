@@ -1,1 +1,2 @@
 # bangalore-house-price-prediction
+This project aims to predict house prices in Bangalore using various features such as square footage, number of bedrooms, and location. By leveraging machine learning algorithms, we aim to provide accurate price estimates to help buyers and sellers make informed decisions. The dataset includes historical data on house prices and relevant property features, and the model is trained to identify patterns and trends that influence property values.
